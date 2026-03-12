@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+/* Style Sheet for CSS Exercise: Class and ID Selectors */
+p{
+    background-color: lightcoral;
+    font-: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+
+#first{
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#second{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
